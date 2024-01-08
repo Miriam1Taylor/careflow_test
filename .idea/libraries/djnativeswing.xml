@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="djnativeswing">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/djnativeswing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/h2-1.2.124.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/djnativeswt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/localedata.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/substance-swingx.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/swingx-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/substance.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/swtwin32-x86.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

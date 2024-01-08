@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="file://F:/Java编程/Eclipse3.72/bluebee-old/libs/djnativeswing.jar" />
+    <libelement value="file://F:/Java编程/Eclipse3.72/bluebee-old/libs/djnativeswt.jar" />
+    <libelement value="file://F:/Java编程/Eclipse3.72/bluebee-old/libs/h2-1.2.124.jar" />
+    <libelement value="file://F:/Java编程/Eclipse3.72/bluebee-old/libs/localedata.jar" />
+    <libelement value="file://F:/Java编程/Eclipse3.72/bluebee-old/libs/substance.jar" />
+    <libelement value="file://F:/Java编程/Eclipse3.72/bluebee-old/libs/substance-swingx.jar" />
+    <libelement value="file://F:/Java编程/Eclipse3.72/bluebee-old/libs/swingx-1.6.jar" />
+    <libelement value="file://F:/Java编程/Eclipse3.72/bluebee-old/libs/swtwin32-x86.jar" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="21.0.1" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="djnativeswing.jar">
+        <CLASSES>
+          <root url="file://F:/Java编程/Eclipse3.72/bluebee-old/libs/djnativeswing.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="djnativeswt.jar">
+        <CLASSES>
+          <root url="file://F:/Java编程/Eclipse3.72/bluebee-old/libs/djnativeswt.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="h2-1.2.124.jar">
+        <CLASSES>
+          <root url="file://F:/Java编程/Eclipse3.72/bluebee-old/libs/h2-1.2.124.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="localedata.jar">
+        <CLASSES>
+          <root url="file://F:/Java编程/Eclipse3.72/bluebee-old/libs/localedata.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="substance.jar">
+        <CLASSES>
+          <root url="file://F:/Java编程/Eclipse3.72/bluebee-old/libs/substance.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="substance-swingx.jar">
+        <CLASSES>
+          <root url="file://F:/Java编程/Eclipse3.72/bluebee-old/libs/substance-swingx.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="swingx-1.6.jar">
+        <CLASSES>
+          <root url="file://F:/Java编程/Eclipse3.72/bluebee-old/libs/swingx-1.6.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="swtwin32-x86.jar">
+        <CLASSES>
+          <root url="file://F:/Java编程/Eclipse3.72/bluebee-old/libs/swtwin32-x86.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="djnativeswing" level="project" />
+  </component>
+</module>
