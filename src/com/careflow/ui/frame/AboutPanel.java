@@ -36,14 +36,14 @@ public class AboutPanel extends JPanel implements IPage {
     lblQqlycvipgmailcom.setBounds(30, 21, 300, 17);
     supportpanel.add(lblQqlycvipgmailcom);
 
-    JLabel lblwwwsyscom = new JLabel("<html>Õ¯÷∑:<u>careflow-accounting-system</u></html>");
+    JLabel lblwwwsyscom = new JLabel("<html>Õ¯÷∑:<u>careflow-system</u></html>");
     lblwwwsyscom.setCursor(Cursor.getPredefinedCursor(12));
     lblwwwsyscom.addMouseListener(new MouseAdapter() {
       public void mouseClicked(MouseEvent e) {
         Desktop desktop = Desktop.getDesktop();
         URI netSite = null;
         try {
-          netSite = new URI("http://code.google.com/p/bluebee-accounting-system/");
+          netSite = new URI("https://github.com/Miriam1Taylor/careflow_test");
         } catch (URISyntaxException ex) {
           ex.printStackTrace();
         }
@@ -58,7 +58,7 @@ public class AboutPanel extends JPanel implements IPage {
     lblwwwsyscom.setBounds(30, 71, 300, 17);
     supportpanel.add(lblwwwsyscom);
 
-    JLabel lblQqlycvipgmailcom_1 = new JLabel("” œ‰:liu.xuewei@hotmail.com");
+    JLabel lblQqlycvipgmailcom_1 = new JLabel("” œ‰:1300271325@qq.com 3304124360@qq.com 1662115200@qq.com");
     lblQqlycvipgmailcom_1.setFont(new Font("ÀŒÃÂ", 0, 12));
     lblQqlycvipgmailcom_1.setBounds(30, 47, 300, 17);
     supportpanel.add(lblQqlycvipgmailcom_1);
